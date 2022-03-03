@@ -1,3 +1,6 @@
 [tpm]
   path=tmux/plugins/tpm
   url=https://github.com/tmux-plugins/tpm
+[kitty]
+  path=kitty
+  url=git@github.com:strathausen/dotkitty.git
