@@ -6,7 +6,7 @@
 	url = git@github.com/tmux-plugins/tmux-sensible
 [submodule "yank"]
 	path = tmux/plugins/tmux-yank
-	url = git@github.com/tmux-plugins/tmux-yank
+	url = git@github.com:tmux-plugins/tmux-yank
 [submodule "themepack"]
 	path = tmux/themepack
 	url = https://github.com/jimeh/tmux-themepack.git
