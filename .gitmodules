@@ -4,3 +4,6 @@
 [kitty]
   path=kitty
   url=git@github.com:strathausen/dotkitty.git
+[submodule "dotkitty"]
+	path = kitty
+	url = git@github.com:strathausen/dotkitty.git
